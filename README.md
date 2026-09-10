@@ -107,9 +107,4 @@ The complete project report is available at the pdf
 
 ```
 
-**When you upload your report to GitHub**, name the PDF exactly:
 
-`Expense-Tracker-Report.pdf`
-
-Then the README's report link will work automatically.
-```
